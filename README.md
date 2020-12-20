@@ -42,7 +42,7 @@ For more information, see the
 
 # Contributor
 <a href="https://github.com/emmanuelkamala">Emmanuel Kamala on Github</a><br/>
-<a href="">Emmanuel Kamala on Linkedin</a>
+<a href="https://linkedin.com/in/emmanuelkamala">Emmanuel Kamala on Linkedin</a>
 
 # Live Version
 <a href="https://ourconvo.herokuapp.com/">Live Version</a>
