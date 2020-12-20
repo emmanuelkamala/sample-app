@@ -41,7 +41,8 @@ For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
 
 # Contributor
-<a href="https://github.com/emmanuelkamala">Emmanuel Kamala</a>
+<a href="https://github.com/emmanuelkamala">Emmanuel Kamala on Github</a>
+<a href="">Emmanuel Kamala on Linkedin</a>
 
 # Live Version
 <a href="https://ourconvo.herokuapp.com/">Live Version</a>
