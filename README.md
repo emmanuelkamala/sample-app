@@ -33,7 +33,8 @@ Open your terminal or text editor and use next command
 ## Run the index file
 
 To run the index file and see the project; enter this command on the command line:
-'rails server'
+
+       rails server
 
 Then open the browser and enter this link:
 http://localhost:3000
