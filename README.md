@@ -1,48 +1,65 @@
-# Ruby on Rails Tutorial sample application
+# Project: Rails Social App
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Creating a social app with Ruby on Rails, a user can create an account, log in, create posts, comment on other user's posts, follow other users.
 
-## License
+![screenshot](./public/images/1.png)<br />
+![screenshot](./public/images/2.png)<br />
+![screenshot](./public/images/3.png)<br />
 
-All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+## Built With
 
-## Getting started
+- Ruby on Rails 6
+- Bootstrap
+- Postgresql
 
-To get started with the app, clone the repo and then install the needed gems:
 
-```
-$ bundle install --without production
-```
+## Live Version
 
-Next, migrate the database:
+[Live Link](live.com/)
 
-```
-$ rails db:migrate
-```
 
-Finally, run the test suite to verify that everything is working correctly:
+## Getting Started
 
-```
-$ rails test
-```
+Open your terminal or text editor and use next command
 
-If the test suite passes, you'll be ready to run the app in a local server:
+        git clone https://github.com/emmanuelkamala/sample-app.git
 
-```
-$ rails server
-```
+        cd sample-app
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+        Run 'bundle install' command to install package dependencies.
 
-# Contributor
-<a href="https://github.com/emmanuelkamala">Emmanuel Kamala on Github</a><br/>
-<a href="https://linkedin.com/in/emmanuelkamala">Emmanuel Kamala on Linkedin</a>
+        Run 'rails db:migrate' to migrate database
 
-# Live Version
-<a href="https://ourconvo.herokuapp.com/">Live Version</a>
+## Run the index file
+
+To run the index file and see the project; enter this command on the command line:
+'rails server'
+
+Then open the browser and enter this link:
+http://localhost:3000
+
+After if you want to do any changes please create new branch, after changes open pull request.
+Happy coding!
+
+
+## Author
+
+👤 **Author1**
+
+- Github: [emmanuelkamala](https://github.com/emmanuelkamala)
+- Twitter: [ejkamala](https://twitter.com/ejkamala)
+- Linkedin: [emmanuelkamala](https://linkedin.com/in/emmanuelkamala)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
