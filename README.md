@@ -15,7 +15,7 @@ Creating a social app with Ruby on Rails, a user can create an account, log in, 
 
 ## Live Version
 
-[Live Link](live.com/)
+[Live Demo](https://mamboapp.herokuapp.com/)
 
 
 ## Getting Started
